@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "title": "Case Study",
+    "tags": ["topic", "user"],
+    "date": "26 Jul 2023",
+    "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+  },
+  {
+    "id": "2",
+    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "title": "Creative Spark",
+    "tags": ["artistry", "inspiration"],
+    "date": "25 Jul 2023",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat tempor velit, quis eleifend arcu ultricies nec."
+  },
+  {
+    "id": "3",
+    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "title": "Artistic Journey",
+    "tags": ["creativity", "visuals"],
+    "date": "27 Jul 2023",
+    "description": "Proin feugiat odio vitae justo tristique, ut fermentum nisi tincidunt. Maecenas euismod sapien sit amet tellus laoreet."
+  },
+  {
+    "id": "4",
+    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "title": "Colorful Expressions",
+    "tags": ["colors", "expressions"],
+    "date": "12 Jul 2023",
+    "description": "Nunc luctus, dui vel commodo convallis, justo arcu interdum erat, in varius metus libero nec odio."
+  },
+  {
+    "id": "5",
+    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "title": "Visual Harmony",
+    "tags": ["creation", "user"],
+    "date": "03 Jul 2023",
+    "description": "Integer consectetur, urna vitae eleifend malesuada, augue libero feugiat sapien, eu pulvinar nisi elit eget justo."
+  }
+]
