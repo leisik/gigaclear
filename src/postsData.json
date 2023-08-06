@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "img": "https://firebasestorage.googleapis.com/v0/b/soundoshi-dev.appspot.com/o/img-task-min.jpg?alt=media&token=f36cd55f-5c0e-402d-a200-6943e148e3a1",
     "title": "Case Study",
     "tags": ["topic", "user"],
     "date": "26 Jul 2023",
@@ -9,31 +9,31 @@
   },
   {
     "id": "2",
-    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "img": "https://firebasestorage.googleapis.com/v0/b/soundoshi-dev.appspot.com/o/img-task-min.jpg?alt=media&token=f36cd55f-5c0e-402d-a200-6943e148e3a1",
     "title": "Creative Spark",
-    "tags": ["artistry", "inspiration"],
+    "tags": ["art", "inspire"],
     "date": "25 Jul 2023",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat tempor velit, quis eleifend arcu ultricies nec."
   },
   {
     "id": "3",
-    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "img": "https://firebasestorage.googleapis.com/v0/b/soundoshi-dev.appspot.com/o/img-task-min.jpg?alt=media&token=f36cd55f-5c0e-402d-a200-6943e148e3a1",
     "title": "Artistic Journey",
-    "tags": ["creativity", "visuals"],
+    "tags": ["creative", "visuals"],
     "date": "27 Jul 2023",
     "description": "Proin feugiat odio vitae justo tristique, ut fermentum nisi tincidunt. Maecenas euismod sapien sit amet tellus laoreet."
   },
   {
     "id": "4",
-    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "img": "https://firebasestorage.googleapis.com/v0/b/soundoshi-dev.appspot.com/o/img-task-min.jpg?alt=media&token=f36cd55f-5c0e-402d-a200-6943e148e3a1",
     "title": "Colorful Expressions",
-    "tags": ["colors", "expressions"],
+    "tags": ["colors", "paint"],
     "date": "12 Jul 2023",
     "description": "Nunc luctus, dui vel commodo convallis, justo arcu interdum erat, in varius metus libero nec odio."
   },
   {
     "id": "5",
-    "img": "https://i.ibb.co/BcxVjzK/6179e385f027ab77eee24a76f878ec67.jpg",
+    "img": "https://firebasestorage.googleapis.com/v0/b/soundoshi-dev.appspot.com/o/img-task-min.jpg?alt=media&token=f36cd55f-5c0e-402d-a200-6943e148e3a1",
     "title": "Visual Harmony",
     "tags": ["creation", "user"],
     "date": "03 Jul 2023",

@@ -8,6 +8,7 @@ module.exports = {
       {
         protocol: "https",
         hostname: "i.ibb.co",
+        hostname: "firebasestorage.googleapis.com",
       },
     ],
   },

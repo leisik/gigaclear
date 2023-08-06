@@ -1,7 +1,7 @@
 import { Layout } from "../components/layout";
 import type { GetServerSideProps } from "next";
 import { Post } from "src/types/post";
-import { PostCardList } from "src/components/layout/PostCardList";
+import { PostCardList } from "src/components/layout/PostCardList/PostCardList";
 
 interface Props {
   posts: Post[];

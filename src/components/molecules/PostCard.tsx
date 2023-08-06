@@ -4,8 +4,7 @@ import Image from "next/image";
 
 export const PostCard: React.FC = ({ signlePost: post }: any) => {
   return (
-    <div>
-      {/* post image */}
+    <div className={styles.card}>
       <Image
         className={styles.image}
         src={post?.img}
@@ -14,17 +13,16 @@ export const PostCard: React.FC = ({ signlePost: post }: any) => {
         height={120}
         sizes="100vh"
       />
-      {/* post title */}
-      <p className={styles.title}>{post?.title}</p>
-      {/* post tags and date */}
-      <div className={styles.image}>
-        <p>{post?.tags[0]}</p>
-        <p>{post?.tags[1]}</p>
-        <div className={styles.break}></div>
-        <p>{post?.date}</p>
+      <div className={styles.content}>
+        <p className={styles.title}>{post?.title}</p>
+        <div className={styles.tags}>
+          <p>{post?.tags[0]}</p>
+          <p>{post?.tags[1]}</p>
+          <div></div>
+          <p>{post?.date}</p>
+        </div>
+        <p className={styles.description}>{post?.description}</p>
       </div>
-      {/* post description */}
-      <p className={styles.description}>{post?.description}</p>
     </div>
   );
 };
